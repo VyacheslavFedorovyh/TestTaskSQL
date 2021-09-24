@@ -1,0 +1,9 @@
+C:\Users\ichig\source\repos\TestTaskSQL\TestTaskSQL\bin\Debug\Company.mdf
+C:\Users\ichig\source\repos\TestTaskSQL\TestTaskSQL\bin\Debug\Company_log.ldf
+C:\Users\ichig\source\repos\TestTaskSQL\TestTaskSQL\bin\Debug\TestTaskSQL.exe.config
+C:\Users\ichig\source\repos\TestTaskSQL\TestTaskSQL\bin\Debug\TestTaskSQL.exe
+C:\Users\ichig\source\repos\TestTaskSQL\TestTaskSQL\bin\Debug\TestTaskSQL.pdb
+C:\Users\ichig\source\repos\TestTaskSQL\TestTaskSQL\obj\Debug\TestTaskSQL.csprojAssemblyReference.cache
+C:\Users\ichig\source\repos\TestTaskSQL\TestTaskSQL\obj\Debug\TestTaskSQL.csproj.CoreCompileInputs.cache
+C:\Users\ichig\source\repos\TestTaskSQL\TestTaskSQL\obj\Debug\TestTaskSQL.exe
+C:\Users\ichig\source\repos\TestTaskSQL\TestTaskSQL\obj\Debug\TestTaskSQL.pdb
